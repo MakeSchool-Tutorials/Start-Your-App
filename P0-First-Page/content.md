@@ -17,7 +17,7 @@ If you want to install all dependencies, your `Podfile` should look like this:
 	pod 'ParseUI'
 	pod 'FBSDKCoreKit'
 	pod 'ParseFacebookUtilsV4'
-	pod 'ConvenienceKit'
-	pod 'Bond'
+	pod 'ConvenienceKit', '~> 0.4'
+	pod 'Bond', '4.0.0-beta3'
 
 After you've configured your `Podfile` and ran `pod install` you should be good to go!
