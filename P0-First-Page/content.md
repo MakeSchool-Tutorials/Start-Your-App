@@ -5,13 +5,7 @@ slug: starting-own-app
 
 Not it's time to get started on your own App! 
 
-##Starting with our template project
-
-If you want to use the same frameworks (Parse, Facebook SDK, etc.) that you have used throughout our tutorials, you can get started by downloading this [template project](https://github.com/MakeSchool/Makestagram-Swift-Solution/archive/TemplateProject.zip).
-
-##Installing dependencies via CocoaPods
-
-If you prefer, you can start with a blank Xcode project. You can then use CocoaPods (discussed in the second part of the Makestagram tutorial) to install the libraries that we use throughout the tutorials.
+If you want to use the libraries we used throughout the Makestagram tutorial, you should start a new Xcode project and use Cocoapods (discussed in the second part of the Makestagram tutorial) to install the libraries that we use throughout the tutorials.
 
 If you want to install all dependencies, your `Podfile` should look like this:
 
