@@ -19,3 +19,5 @@ If you want to install all dependencies, your `Podfile` should look like this:
 	pod 'ParseFacebookUtilsV4'
 	pod 'ConvenienceKit'
 	pod 'Bond'
+
+After you've configured your `Podfile` and ran `pod install` you should be good to go!
